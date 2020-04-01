@@ -4,9 +4,16 @@ Course developed at university of San Buenaventura
 
 ![](https://www.usbbog.edu.co/wp-content/uploads/2019/12/logo_usbbog.png)
 
-[![usbbog](https://img1.freepng.es/20180718/rgh/kisspng-computer-icons-icon-design-encapsulated-postscript-more-info-icon-5b4fcee4a128a8.7836483215319569646601.jpg)](https://www.usbbog.edu.co/)
+[![usbbog](<!DOCTYPE html>
+<html>
+    <head>
+    <body>
+      <img src="https://cdn.pixabay.com/photo/2012/04/24/23/56/information-41225_960_720.png"width="40"
+     height="20">
+    </body>
+</html>
+)](https://www.usbbog.edu.co/)
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 En este repositorio se encontraran los codigos con cada una de las tematicas desarrolladas a lo largo del curso de analisis
 y diseño de algoritmo al igual que la solucion de los talleres y ejercicios propuestos. En este documento se informara el nombre de cada proyecto desarrollado y donde encontrarlo dentro del repositorio. 
