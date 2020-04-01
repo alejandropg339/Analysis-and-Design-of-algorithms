@@ -11,11 +11,11 @@ y diseño de algoritmo al igual que la solucion de los talleres y ejercicios pro
 
 | Taller o Algoritmo | Nombre carpeta |
 | ------ | ------ |
-| Algoritmos | [-----------][PlDb] |
-| Ejercicios de maraton | [-----------][PlGh] |
-| Taller 1 | [-----------][PlGd] |
-| Taller 2 | [-----------][PlOd] |
-| Taller 3 | [-----------][PlMe] |
+| Algoritmos | ----------- |
+| Ejercicios de maraton | ----------- |
+| Taller 1 | ----------- |
+| Taller 2 | ----------- |
+| Taller 3 | ----------- |
 
 
 #TALLER 3 
