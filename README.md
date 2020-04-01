@@ -2,7 +2,7 @@
 Course developed at university of San Buenaventura
 # Repositorio Alejandro Padilla
 
-![](https://www.usbbog.edu.co/wp-content/uploads/2019/12/logo_usbbog.png)
+https://www.usbbog.edu.co/
 
 [![usbbog](<!DOCTYPE html>
 <html>
