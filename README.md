@@ -6,6 +6,8 @@ Course developed at university of San Buenaventura
 
 https://www.usbbog.edu.co/
 
+# Repositorio Alejandro Padilla
+
 En este repositorio se encontraran los codigos con cada una de las tematicas desarrolladas a lo largo del curso de analisis
 y diseño de algoritmo al igual que la solucion de los talleres y ejercicios propuestos. En este documento se informara el nombre de cada proyecto desarrollado y donde encontrarlo dentro del repositorio. 
 
