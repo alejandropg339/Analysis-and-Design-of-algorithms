@@ -4,17 +4,6 @@ Course developed at university of San Buenaventura
 
 https://www.usbbog.edu.co/
 
-[![usbbog](<!DOCTYPE html>
-<html>
-    <head>
-    <body>
-      <img src="https://cdn.pixabay.com/photo/2012/04/24/23/56/information-41225_960_720.png"width="40"
-     height="20">
-    </body>
-</html>
-)](https://www.usbbog.edu.co/)
-
-
 En este repositorio se encontraran los codigos con cada una de las tematicas desarrolladas a lo largo del curso de analisis
 y diseño de algoritmo al igual que la solucion de los talleres y ejercicios propuestos. En este documento se informara el nombre de cada proyecto desarrollado y donde encontrarlo dentro del repositorio. 
 
