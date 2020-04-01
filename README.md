@@ -13,7 +13,7 @@ y diseño de algoritmo al igual que la solucion de los talleres y ejercicios pro
 #TALLER 3 
 ALGORITMOS DE ORDENAMIENTO API COLLECTION JAVA
 
-```html
+
 <!DOCTYPE html>
 <html>
     <head>
@@ -22,4 +22,4 @@ ALGORITMOS DE ORDENAMIENTO API COLLECTION JAVA
      height="341">
     </body>
 </html>
-```
+
