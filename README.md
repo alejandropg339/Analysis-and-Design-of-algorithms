@@ -2,6 +2,8 @@
 Course developed at university of San Buenaventura
 # Repositorio Alejandro Padilla
 
+![](https://www.usbbog.edu.co/wp-content/uploads/2019/12/logo_usbbog.png)
+
 https://www.usbbog.edu.co/
 
 En este repositorio se encontraran los codigos con cada una de las tematicas desarrolladas a lo largo del curso de analisis
