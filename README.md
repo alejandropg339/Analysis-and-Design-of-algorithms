@@ -13,4 +13,4 @@ y diseño de algoritmo al igual que la solucion de los talleres y ejercicios pro
 #TALLER 3 
 ALGORITMOS DE ORDENAMIENTO API COLLECTION JAVA
 
-![](https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.fortstocktonpioneer.com%2Fstories%2Ftexas-medical-association-offers-comparison-between-flu-and-the-coronavirus%2C25168&psig=AOvVaw1GjINlYg2GQiyiPxRtMTiI&ust=1585834387296000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKi-k8yrx-gCFQAAAAAdAAAAABAF)
+![](https://cdn4.creativecirclemedia.com/fortstockton/original/20200310-084859-Coronavirus%20logo.jpg)
