@@ -3,7 +3,8 @@ Course developed at university of San Buenaventura
 # Repositorio Alejandro Padilla
 
 ![](https://www.usbbog.edu.co/wp-content/uploads/2019/12/logo_usbbog.png)
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+
+[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://www.usbbog.edu.co/)
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
