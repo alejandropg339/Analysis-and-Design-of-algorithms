@@ -19,7 +19,7 @@ ALGORITMOS DE ORDENAMIENTO API COLLECTION JAVA
     <head>
     <body>
       <img src="https://cdn4.creativecirclemedia.com/fortstockton/original/20200310-084859-Coronavirus%20logo.jpg"width="400"
-     height="341">
+     height="250">
     </body>
 </html>
 
