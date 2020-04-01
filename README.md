@@ -7,7 +7,15 @@ Course developed at university of San Buenaventura
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 En este repositorio se encontraran los codigos con cada una de las tematicas desarrolladas a lo largo del curso de analisis
-y diseño de algoritmo al igual que la solucion de los talleres y ejercicios propuestos. En este documento se informara el nombre de cada proyecto desarrollado y donde encontrarlo dentro del repositorio.   
+y diseño de algoritmo al igual que la solucion de los talleres y ejercicios propuestos. En este documento se informara el nombre de cada proyecto desarrollado y donde encontrarlo dentro del repositorio. 
+
+| Taller o Algoritmo | Nombre carpeta |
+| ------ | ------ |
+| Algoritmos | [-----------][PlDb] |
+| Ejercicios de maraton | [-----------][PlGh] |
+| Taller 1 | [-----------][PlGd] |
+| Taller 2 | [-----------][PlOd] |
+| Taller 3 | [-----------][PlMe] |
 
 
 #TALLER 3 
