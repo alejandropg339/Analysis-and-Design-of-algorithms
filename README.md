@@ -13,4 +13,13 @@ y diseño de algoritmo al igual que la solucion de los talleres y ejercicios pro
 #TALLER 3 
 ALGORITMOS DE ORDENAMIENTO API COLLECTION JAVA
 
-![](https://cdn4.creativecirclemedia.com/fortstockton/original/20200310-084859-Coronavirus%20logo.jpg)
+```html
+<!DOCTYPE html>
+<html>
+    <head>
+    <body>
+      <img src="https://cdn4.creativecirclemedia.com/fortstockton/original/20200310-084859-Coronavirus%20logo.jpg"width="400"
+     height="341">
+    </body>
+</html>
+```
