@@ -4,7 +4,7 @@ Course developed at university of San Buenaventura
 
 ![](https://www.usbbog.edu.co/wp-content/uploads/2019/12/logo_usbbog.png)
 
-[![usbbog](https://img2.freepng.es/20180606/hau/kisspng-hyperlink-computer-icons-link-bait-5b1774f9c03585.6022164515282639297873.jpg)](https://www.usbbog.edu.co/)
+[![usbbog](https://img1.freepng.es/20180718/rgh/kisspng-computer-icons-icon-design-encapsulated-postscript-more-info-icon-5b4fcee4a128a8.7836483215319569646601.jpg)](https://www.usbbog.edu.co/)
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
