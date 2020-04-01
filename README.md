@@ -18,7 +18,7 @@ ALGORITMOS DE ORDENAMIENTO API COLLECTION JAVA
 <html>
     <head>
     <body>
-      <img src="https://cdn4.creativecirclemedia.com/fortstockton/original/20200310-084859-Coronavirus%20logo.jpg"width="400"
+      <img src="https://cdn4.creativecirclemedia.com/fortstockton/original/20200310-084859-Coronavirus%20logo.jpg"width="600"
      height="250">
     </body>
 </html>
