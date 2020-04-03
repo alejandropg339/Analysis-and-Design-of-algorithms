@@ -18,8 +18,25 @@ y diseño de algoritmo al igual que la solucion de los talleres y ejercicios pro
 | Taller 3 | covid19 - taller3 |
 
 
-#TALLER 3 
-ALGORITMOS DE ORDENAMIENTO API COLLECTION JAVA
+# ALGORITMOS DE ORDENAMIENTO
+
+En este apartado se encuentran todos los algoritmos de ordenamiento propuestos en clase elaborados en python.
+
+En este video se explican a modo de  tutorial algunos de los algoritmos.
+
+https://www.youtube.com/watch?v=uWXkXpMapPs
+
+
+# Ejercicios de maraton
+
+En este apartado encontramos un documento con la bitacora de los ejercicios de URI judge online propuestos en clase.
+
+# TALLER 2
+
+En este apartado encontramos el documento en cual se encuentra una breve explicacion de cada algoritmo de ordenamiento con un ejemplo 
+realizado en python o java.
+
+# TALLER 3 
 
 
 <!DOCTYPE html>
@@ -31,3 +48,9 @@ ALGORITMOS DE ORDENAMIENTO API COLLECTION JAVA
     </body>
 </html>
 
+En este apartado encontramos un proyecto elaborado bajo la API collections de Java, utilizando archivos planos para asegurar la
+persistencia. El programa registra el numero de contagios, numero de muertos y nombre del país bajo una interfaz grafica.
+
+En este video se explican a modo de  tutorial el funcionamiento del proyecto.
+
+https://www.youtube.com/watch?v=erujhTjBzP0
