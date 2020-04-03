@@ -12,11 +12,10 @@ y diseño de algoritmo al igual que la solucion de los talleres y ejercicios pro
 
 | Taller o Algoritmo | Nombre carpeta |
 | ------ | ------ |
-| Algoritmos | ----------- |
-| Ejercicios de maraton | ----------- |
-| Taller 1 | ----------- |
-| Taller 2 | ----------- |
-| Taller 3 | ----------- |
+| Algoritmos de ordenamiento| taller3 |
+| Ejercicios de maraton | Ejercicios_maraton |
+| Taller 2 | taller2 |
+| Taller 3 | covid19 - taller3 |
 
 
 #TALLER 3 
