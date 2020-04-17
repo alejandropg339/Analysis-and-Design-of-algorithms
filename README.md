@@ -16,7 +16,7 @@ y diseño de algoritmo al igual que la solucion de los talleres y ejercicios pro
 | Ejercicios de maraton | Ejercicios_maraton |
 | Taller 2 | taller2 |
 | Taller 3 | covid19 - taller3 |
-| Taller 4 | Taller4 |
+| Taller 4 | taller4 |
 
 
 # ALGORITMOS DE ORDENAMIENTO
