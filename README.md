@@ -17,6 +17,8 @@ y diseño de algoritmo al igual que la solucion de los talleres y ejercicios pro
 | Taller 2 | taller2 |
 | Taller 3 | covid19 - taller3 |
 | Taller 4 | taller4 |
+| Parcial 2 | Parcial2 |
+
 
 
 # ALGORITMOS DE ORDENAMIENTO
