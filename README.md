@@ -59,10 +59,10 @@ https://www.youtube.com/watch?v=erujhTjBzP0
 
 # TALLER 4
 
-4.1 Preguntas y respuestas (archivo PDF)
-4.2 Resolver ejercicios de manera iterativa y recursiva (proyecto de nombre 'punto1')
-4.3 Palindromo recursivo (Palindromo)
-4.4 Permutaciones (Palindromo metodo palindromo_recursivo)
-4.5 Canción sin vocales (CancionSinVocales)
-4.6 Palabras repetidas en un poema (PalabrasRepetidasPoema)
-4.7 La Torre de Hanoi (TorreDeHanoi)
+- 4.1 Preguntas y respuestas (archivo PDF)
+- 4.2 Resolver ejercicios de manera iterativa y recursiva (proyecto de nombre 'punto1')
+- 4.3 Palindromo recursivo (Palindromo)
+- 4.4 Permutaciones (Palindromo metodo palindromo_recursivo)
+- 4.5 Canción sin vocales (CancionSinVocales)
+- 4.6 Palabras repetidas en un poema (PalabrasRepetidasPoema)
+- 4.7 La Torre de Hanoi (TorreDeHanoi)
