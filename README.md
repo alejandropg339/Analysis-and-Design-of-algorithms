@@ -16,6 +16,7 @@ y diseño de algoritmo al igual que la solucion de los talleres y ejercicios pro
 | Ejercicios de maraton | Ejercicios_maraton |
 | Taller 2 | taller2 |
 | Taller 3 | covid19 - taller3 |
+| Taller 4 | Taller4 |
 
 
 # ALGORITMOS DE ORDENAMIENTO
@@ -54,3 +55,14 @@ persistencia. El programa registra el numero de contagios, numero de muertos y n
 En este video se explican a modo de  tutorial el funcionamiento del proyecto.
 
 https://www.youtube.com/watch?v=erujhTjBzP0
+
+
+# TALLER 4
+
+4.1 Preguntas y respuestas (archivo PDF)
+4.2 Resolver ejercicios de manera iterativa y recursiva (proyecto de nombre 'punto1')
+4.3 Palindromo recursivo (Palindromo)
+4.4 Permutaciones (Palindromo metodo palindromo_recursivo)
+4.5 Canción sin vocales (CancionSinVocales)
+4.6 Palabras repetidas en un poema (PalabrasRepetidasPoema)
+4.7 La Torre de Hanoi (TorreDeHanoi)
